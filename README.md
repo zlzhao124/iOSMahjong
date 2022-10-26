@@ -1,4 +1,4 @@
-# CSE438S-MahjongGroup
+A copy of my final project for CSE438, where my group members (see below) and I created an iOS Mahjong app that uses Swift, XCode, and utilizes AR capabilities with packages like ARKit and UIKit as well as multiplayer connection.
 
 # Project Name: Mahjong AR
 
